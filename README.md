@@ -19,4 +19,4 @@
 ---
 ## **📝목차**
 
-1. [palindrome](https://github.com/devsungminPython-Algorithm/tree/master/Code/palindrome/palindrome.py)
+1. [palindrome](https://github.com/devsungmin/Python-Algorithm/blob/master/Code/palindrome/palindrome.py)
