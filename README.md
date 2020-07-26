@@ -20,3 +20,4 @@
 ## **📝목차**
 
 1. [palindrome](https://github.com/devsungmin/Python-Algorithm/blob/master/Code/palindrome/palindrome.py)
+2. [reverseString](https://github.com/devsungmin/Python-Algorithm/blob/master/Code/reverseString/reverseString.py)
